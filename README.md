@@ -1,3 +1,7 @@
 # tasks_with_dict
 This repository contains simple tasks for 
 Start learning dict type
+Contains:
+dict_1
+dict_2
+dict_3
