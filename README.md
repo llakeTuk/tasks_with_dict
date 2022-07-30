@@ -4,4 +4,4 @@ Start learning dict type
 Contains:
 dict_1 - return dict from entered list of elements
 dict_2 - expands dict with entered arguments 
-dict_3
+dict_3 - counts frequency of numbers and return top numbers
